@@ -15,8 +15,15 @@ venv/
 # VSCode settings folder
 .vscode/
 
+# JetBrains IDE files (PyCharm, IntelliJ, etc)
+.idea/
+*.iml
+
 # Mac system files
 .DS_Store
+
+# XML files (usually IDE/project config)
+*.xml
 
 # Python egg info
 *.egg-info/
