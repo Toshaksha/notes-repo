@@ -1,8 +1,16 @@
-## 🐍 Python Notes
+<h2 align="center">🐍 Python Notes</h2>
 
-**Personal Python Learning Notebook 🧠 — created during my own hands-on journey into programming.**
+<p align="center"><strong>Personal Python Learning Notebook 🧠 — created during my own hands-on journey into programming.</strong></p>
 
-A comprehensive and beginner-friendly Python tutorial notebook covering foundational programming concepts with clear explanations and practical examples.
+<p align="center">
+  <a href="https://colab.research.google.com/github/Toshaksha/notes-repo/blob/main/Python/Python_Notes.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</p>
+
+<p align="center">
+  A comprehensive and beginner-friendly Python tutorial notebook covering foundational programming concepts with clear explanations and practical examples.
+</p>
 
 ---
 
